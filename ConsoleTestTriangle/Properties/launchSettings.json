@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleTestTriangle": {
+      "commandName": "Project",
+      "commandLineArgs": "tests.txt"
+    }
+  }
+}
