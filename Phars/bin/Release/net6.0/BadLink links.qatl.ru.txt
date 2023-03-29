@@ -1,0 +1,13 @@
+http://links.qatl.ru/../links/502gateaway502.php 502
+http://links.qatl.ru/../links/access401unauthorized.php 401
+http://links.qatl.ru/../links/deny403forbidden.php 403
+http://links.qatl.ru/../links/locked.php 423
+http://links.qatl.ru/../links/un503availible.php 503
+http://links.qatl.ru/../links/return500bad.php 500
+http://links.qatl.ru/../links/teapot418.php 500
+http://links.qatl.ru/../links/movedper.php 301
+http://links.qatl.ru/../links/found302.php 302
+http://links.qatl.ru/../links/404not404found404.php 404
+http://links.qatl.ru/images/noimage.jpg 404
+Проверено ссылок: 11
+Дата проверки: 29.03.2023 2:29:23

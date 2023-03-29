@@ -1,0 +1,8 @@
+https://5ka.ru/auth/resources/0aop6/login/x5-tc5new/css/start_page_main_cd33ec0815df0ec442ac.css 404
+https://5ka.ru/auth/resources/0aop6/login/x5-tc5new/img/telegram.svg 404
+https://5ka.ru/auth/resources/0aop6/login/x5-tc5new/img/phone.svg 404
+https://5ka.ru/auth/resources/0aop6/login/x5-tc5new/img/mail.svg 404
+https://5ka.ru/auth/resources/0aop6/login/x5-tc5new/img/close.svg 404
+https://5ka.ru/auth/resources/0aop6/login/x5-tc5new/js/start_page_979c776d240c754e7abb.js 404
+Проверено ссылок: 6
+Дата проверки: 29.03.2023 4:00:09
