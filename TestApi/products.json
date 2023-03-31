@@ -1,0 +1,406 @@
+{
+  "CorrectProducts": [
+    {
+      "category_id": "1",
+      "title": "Test 1",
+      "content": "Test 1 content",
+      "price": "5000",
+      "old_price": "10",
+      "status": "1",
+      "keywords": "Test 1 keywords",
+      "description": "Test 1 description",
+      "hit": "1"
+    },
+    {
+      "category_id": "14",
+      "title": "Test 1",
+      "content": "Test 1 content",
+      "price": "5000",
+      "old_price": "10",
+      "status": "1",
+      "keywords": "Test 1 keywords",
+      "description": "Test 1 description",
+      "hit": "1"
+    },
+    {
+      "category_id": "14",
+      "title": "Test 1",
+      "content": "Test 1 content",
+      "price": "5000",
+      "old_price": "10",
+      "status": "0",
+      "keywords": "Test 1 keywords",
+      "description": "Test 1 description",
+      "hit": "1"
+    },
+    {
+      "category_id": "14",
+      "title": "Test 1",
+      "content": "Test 1 content",
+      "price": "5000",
+      "old_price": "10",
+      "status": "0",
+      "keywords": "Test 1 keywords",
+      "description": "Test 1 description",
+      "hit": "0"
+    },
+    {
+      "category_id": "14",
+      "title": "Test 1",
+      "content": "Test 1 content",
+      "price": "50000",
+      "old_price": "10",
+      "status": "0",
+      "keywords": "Test 1 keywords",
+      "description": "Test 1 description",
+      "hit": "0"
+    },
+    {
+      "category_id": "14",
+      "title": "Test 1",
+      "content": "Test 1 content",
+      "price": "50000",
+      "old_price": "100",
+      "status": "0",
+      "keywords": "Test 1 keywords",
+      "description": "Test 1 description",
+      "hit": "0"
+    },
+    {
+      "category_id": "14",
+      "title": "Test 2",
+      "content": "Test 1 content",
+      "price": "50000",
+      "old_price": "100",
+      "status": "0",
+      "keywords": "Test 1 keywords",
+      "description": "Test 1 description",
+      "hit": "0"
+    },
+    {
+      "category_id": "14",
+      "title": "Test 2",
+      "content": "Test 2 content",
+      "price": "50000",
+      "old_price": "100",
+      "status": "0",
+      "keywords": "Test 1 keywords",
+      "description": "Test 1 description",
+      "hit": "0"
+    },
+    {
+      "category_id": "14",
+      "title": "Test 2",
+      "content": "Test 2 content",
+      "price": "50000",
+      "old_price": "100",
+      "status": "0",
+      "keywords": "Test 2 keywords",
+      "description": "Test 1 description",
+      "hit": "0"
+    },
+    {
+      "category_id": "14",
+      "title": "Test 2",
+      "content": "Test 2 content",
+      "price": "50000",
+      "old_price": "100",
+      "status": "0",
+      "keywords": "Test 2 keywords",
+      "description": "Test 2 description",
+      "hit": "0"
+    },
+    {
+      "category_id": "14",
+      "title": "Test 2",
+      "content": "Test 2 content",
+      "price": "50000",
+      "old_price": "100",
+      "status": "0",
+      "keywords": "Test 2 keywords",
+      "description": "Test 2 description",
+      "hit": "0"
+    }
+  ],
+  "CorrectUpdateProducts": [
+    {
+      "category_id": "1",
+      "title": "Test 2",
+      "content": "Test 1 content",
+      "price": "5000",
+      "old_price": "10",
+      "status": "1",
+      "keywords": "Test 1 keywords",
+      "description": "Test 1 description",
+      "hit": "1"
+    },
+    {
+      "category_id": "1",
+      "title": "Test 2",
+      "content": "Test 2 content",
+      "price": "5000",
+      "old_price": "10",
+      "status": "1",
+      "keywords": "Test 1 keywords",
+      "description": "Test 1 description",
+      "hit": "1"
+    },
+    {
+      "category_id": "1",
+      "title": "Test 2",
+      "content": "Test 2 content",
+      "price": "5000",
+      "old_price": "10",
+      "status": "1",
+      "keywords": "Test 2 keywords",
+      "description": "Test 1 description",
+      "hit": "1"
+    },
+    {
+      "category_id": "1",
+      "title": "Test 2",
+      "content": "Test 2 content",
+      "price": "5000",
+      "old_price": "10",
+      "status": "1",
+      "keywords": "Test 2 keywords",
+      "description": "Test 2 description",
+      "hit": "1"
+    },
+    {
+      "category_id": "14",
+      "title": "Test 2",
+      "content": "Test 2 content",
+      "price": "5000",
+      "old_price": "10",
+      "status": "1",
+      "keywords": "Test 2 keywords",
+      "description": "Test 2 description",
+      "hit": "1"
+    },
+    {
+      "category_id": "14",
+      "title": "Test 2",
+      "content": "Test 2 content",
+      "price": "5000",
+      "old_price": "1000000",
+      "status": "1",
+      "keywords": "Test 2 keywords",
+      "description": "Test 2 description",
+      "hit": "1"
+    },
+    {
+      "category_id": "14",
+      "title": "Test 2",
+      "content": "Test 2 content",
+      "price": "50000",
+      "old_price": "1000000",
+      "status": "1",
+      "keywords": "Test 2 keywords",
+      "description": "Test 2 description",
+      "hit": "1"
+    },
+    {
+      "category_id": "14",
+      "title": "Test 2",
+      "content": "Test 2 content",
+      "price": "50000",
+      "old_price": "1000000",
+      "status": "1",
+      "keywords": "Test 2 keywords",
+      "description": "Test 2 description",
+      "hit": "1"
+    },
+    {
+      "category_id": "14",
+      "title": "Test 2",
+      "content": "Test 2 content",
+      "price": "50000",
+      "old_price": "1000000",
+      "status": "0",
+      "keywords": "Test 2 keywords",
+      "description": "Test 2 description",
+      "hit": "1"
+    },
+    {
+      "category_id": "14",
+      "title": "Test 2",
+      "content": "Test 2 content",
+      "price": "50000",
+      "old_price": "1000000",
+      "status": "0",
+      "keywords": "Test 2 keywords",
+      "description": "Test 2 description",
+      "hit": "0"
+    },
+    {
+      "category_id": "14",
+      "title": "Test 2",
+      "content": "Test 2 content",
+      "price": "50000",
+      "old_price": "1000000",
+      "status": "1",
+      "keywords": "Test 2 keywords",
+      "description": "Test 2 description",
+      "hit": "0"
+    }
+  ],
+  "IncorrectProducts": [
+    {
+      "category_id": "15",
+      "title": "Test 1",
+      "content": "Test 1 content",
+      "price": "5000",
+      "old_price": "10",
+      "status": "0",
+      "keywords": "Test 1 keywords",
+      "description": "Test 1 description",
+      "hit": "1"
+    },
+    {
+      "category_id": "0",
+      "title": "Test 1",
+      "content": "Test 1 content",
+      "price": "5000",
+      "old_price": "10",
+      "status": "0",
+      "keywords": "Test 1 keywords",
+      "description": "Test 1 description",
+      "hit": "1"
+    },
+    {
+      "category_id": "16",
+      "title": "Test 1",
+      "content": "Test 1 content",
+      "price": "5000",
+      "old_price": "10",
+      "status": "0",
+      "keywords": "Test 1 keywords",
+      "description": "Test 1 description",
+      "hit": "1"
+    },
+    {
+      "category_id": "14",
+      "title": "Test 1",
+      "content": "Test 1 content",
+      "price": "5000",
+      "old_price": "10",
+      "status": "-1",
+      "keywords": "Test 1 keywords",
+      "description": "Test 1 description",
+      "hit": "1"
+    },
+    {
+      "category_id": "14",
+      "title": "Test 1",
+      "content": "Test 1 content",
+      "price": "5000",
+      "old_price": "10",
+      "status": "0",
+      "keywords": "Test 1 keywords",
+      "description": "Test 1 description",
+      "hit": "-1"
+    },
+    {
+      "category_id": "14",
+      "title": "Test 1",
+      "content": "Test 1 content",
+      "price": "5000",
+      "old_price": "10",
+      "status": "2",
+      "keywords": "Test 1 keywords",
+      "description": "Test 1 description",
+      "hit": "1"
+    },
+    {
+      "category_id": "14",
+      "title": "Test 1",
+      "content": "Test 1 content",
+      "price": "5000",
+      "old_price": "10",
+      "status": "0",
+      "keywords": "Test 1 keywords",
+      "description": "Test 1 description",
+      "hit": "2"
+    }
+  ],
+  "IncorrectUpdateProducts": [
+    {
+      "category_id": "15",
+      "title": "Test 1",
+      "content": "Test 1 content",
+      "price": "5000",
+      "old_price": "10",
+      "status": "0",
+      "keywords": "Test 1 keywords",
+      "description": "Test 1 description",
+      "hit": "1"
+    },
+    {
+      "category_id": "0",
+      "title": "Test 1",
+      "content": "Test 1 content",
+      "price": "5000",
+      "old_price": "10",
+      "status": "0",
+      "keywords": "Test 1 keywords",
+      "description": "Test 1 description",
+      "hit": "1"
+    },
+    {
+      "category_id": "16",
+      "title": "Test 1",
+      "content": "Test 1 content",
+      "price": "5000",
+      "old_price": "10",
+      "status": "0",
+      "keywords": "Test 1 keywords",
+      "description": "Test 1 description",
+      "hit": "1"
+    },
+    {
+      "category_id": "14",
+      "title": "Test 1",
+      "content": "Test 1 content",
+      "price": "5000",
+      "old_price": "10",
+      "status": "-1",
+      "keywords": "Test 1 keywords",
+      "description": "Test 1 description",
+      "hit": "1"
+    },
+    {
+      "category_id": "14",
+      "title": "Test 1",
+      "content": "Test 1 content",
+      "price": "5000",
+      "old_price": "10",
+      "status": "0",
+      "keywords": "Test 1 keywords",
+      "description": "Test 1 description",
+      "hit": "-1"
+    },
+    {
+      "category_id": "14",
+      "title": "Test 1",
+      "content": "Test 1 content",
+      "price": "5000",
+      "old_price": "10",
+      "status": "2",
+      "keywords": "Test 1 keywords",
+      "description": "Test 1 description",
+      "hit": "1"
+    },
+    {
+      "category_id": "14",
+      "title": "Test 1",
+      "content": "Test 1 content",
+      "price": "5000",
+      "old_price": "10",
+      "status": "0",
+      "keywords": "Test 1 keywords",
+      "description": "Test 1 description",
+      "hit": "2"
+    }
+  ]
+}
